@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# MLflow logs
+mlruns/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter & system junk
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs & other
+*.log
+
+# Large dataset
+data/creditcard_train.csv
